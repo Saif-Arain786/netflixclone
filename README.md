@@ -1,1 +1,1 @@
-i am devesakldfjlkasdfhklasdfhklashdfjakshfdj
+netflix clone as a first project
